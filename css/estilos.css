@@ -22,6 +22,8 @@ header {
 
 nav {
     text-align: right;
+    padding-top: 30px;
+    padding-right: 3rem;
 }
 
 nav a {
