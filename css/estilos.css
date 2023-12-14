@@ -21,14 +21,19 @@ header {
 }
 
 nav {
-    text-align: right;
+    margin-left:55%;
 }
 
 nav a {
     font-size: 2rem;
     color: white;
-    margin-left: 2rem;
+    margin-left: 35px;
     text-shadow: 2px 2px 4px #000000;
+    font-weight: bold;
+}
+nav a:hover{
+    color: black;
+    
 }
 
 .banner {
