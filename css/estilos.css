@@ -26,10 +26,9 @@ nav {
 }
 
 nav a {
-    font-size: 1.1rem;
+    font-size: 2rem;
     color: white;
     margin-left: 2rem;
-    padding-bottom: 20px;
     text-shadow: 2px 2px 4px #000000;
 }
 
