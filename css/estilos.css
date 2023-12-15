@@ -60,6 +60,7 @@ nav a:hover{
     margin-left: 60px;
     margin-right: 250px;
     font-size: 15px;
+    line-height: 153.8%;
 }
 
 .estrela {
@@ -76,8 +77,9 @@ nav a:hover{
     margin-left: 55px;
 }
 .texto2{
-    padding-top: 390px;
+    padding-top: 370px;
     margin-left: 250px;
     margin-right: 60px;
     font-size: 15px;
+    line-height: 153.8%;
 }
