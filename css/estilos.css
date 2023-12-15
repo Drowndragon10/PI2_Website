@@ -77,9 +77,15 @@ nav a:hover{
     margin-left: 55px;
 }
 .texto2{
-    padding-top: 370px;
-    margin-left: 250px;
+    padding-top: 355px;
+    margin-left: 150px;
     margin-right: 60px;
     font-size: 15px;
     line-height: 153.8%;
+}
+.container2{
+    display: flex;
+    background-color: #29ABE2;
+    height: 500px;
+    padding: 20px;
 }
