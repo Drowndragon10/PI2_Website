@@ -65,20 +65,20 @@ nav a:hover{
 
 .estrela {
     margin-top: 80px;
-    width: 720px;
-    height: 400px;
-    margin-right: 65px;
+    width: 500px;
+    height: 300px;
+    margin-right: 60px;
 
 }
 .mar{
     margin-top: 80px;
-    width: 720px;
-    height: 400px;
+    width: 500px;
+    height: 300px;
     margin-left: 55px;
 }
 .texto2{
-    padding-top: 355px;
-    margin-left: 150px;
+    padding-top: 250px;
+    margin-left: 300px;
     margin-right: 60px;
     font-size: 15px;
     line-height: 153.8%;
@@ -86,6 +86,13 @@ nav a:hover{
 .container2{
     display: flex;
     background-color: #29ABE2;
-    height: 500px;
+    height: 400px;
     padding: 20px;
+    position: relative;
 }
+.grafico1{
+   margin-top: 20px;
+   width: 400px;
+   height: 300px;
+}
+
